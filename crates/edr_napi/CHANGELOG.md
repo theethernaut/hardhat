@@ -1,5 +1,13 @@
 # @nomicfoundation/edr
 
+## 0.3.4
+
+### Patch Changes
+
+- 71287a8: fix: remove api keys from RPC error messages
+- 7c23825: fix: increase rate limiting retries
+- 92693fb: Fixed calculation of used blob gas for post-Cancun blocks
+
 ## 0.3.3
 
 ### Patch Changes
